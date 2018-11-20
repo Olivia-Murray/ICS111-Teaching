@@ -15,6 +15,7 @@ public class test {
 		//This should print out the ACM president and vice president
 		acmBoard.print();
 		
+		//This should print out the Grey Hats president
 		System.out.println(greyHatsBoard.president);
 		
 		//This method should not be accessible
